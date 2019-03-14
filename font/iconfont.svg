@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2013-9-30: Created.
+-->
+<svg>
+<metadata>
+Created by iconfont
+</metadata>
+<defs>
+
+<font id="iconfont" horiz-adv-x="1024" >
+  <font-face
+    font-family="iconfont"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1024"
+    ascent="896"
+    descent="-128"
+  />
+    <missing-glyph />
+    
+    <glyph glyph-name="check-box" unicode="&#60504;" d="M810.666667 768H213.333333c-47.146667 0-85.333333-38.186667-85.333333-85.333333v-597.333334c0-47.146667 38.186667-85.333333 85.333333-85.333333h597.333334c47.146667 0 85.333333 38.186667 85.333333 85.333333V682.666667c0 47.146667-38.186667 85.333333-85.333333 85.333333zM426.666667 170.666667L213.333333 384l60.373334 60.373333L426.666667 291.413333l323.626666 323.626667L810.666667 554.666667 426.666667 170.666667z"  horiz-adv-x="1024" />
+
+    
+
+
+  </font>
+</defs></svg>

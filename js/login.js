@@ -1,0 +1,26 @@
+$(()=>{
+$("#btn").click(()=>{
+	$.post("data/users/signin.php",$("form").serialize())
+		.then(text=>{
+		//console.log($("form").serialize());
+		//console.log(text);
+	     if(text==0){
+         //$("form").reset();
+		 alert("密码不正确");
+		 }else{
+			//alert("登陆成功");
+			console.log(text);
+	     if(location.search!=""){
+         location=location.search.slice(6);
+		 }
+		 else{
+		 location="index.html";
+		 }
+		 }
+	})
+})
+$(window).keyup(e=>{
+	if(e.keyCode==13)
+		$("#btn").click();
+	})
+})
